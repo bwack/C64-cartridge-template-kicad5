@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name c64-cartlib-sym)(type Legacy)(uri ${KIPRJMOD}/library/c64-cartlib-sym.lib)(options "")(descr ""))
+)
