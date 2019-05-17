@@ -1,4 +1,4 @@
-The template will help you with mundane task of starting on a new cartridge.
+This template will aid you with the mundane task of starting a new cartridge design.
 
 Note that dimensions have not yet been checked.
 
